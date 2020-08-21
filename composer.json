@@ -1,0 +1,13 @@
+{
+    "name": "jackyto/phalcon-start-pack",
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "dmkit/phalcon-jwt-auth": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Jackyto",
+            "email": "pierre.jacquel@epitech.eu"
+        }
+    ]
+}
