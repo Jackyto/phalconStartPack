@@ -1,7 +1,7 @@
 {
     "name": "jackyto/phalcon-start-pack",
     "require": {
-        "mpdf/mpdf": "^8.0",
+        "mpdf/mpdf": "^8.0"
     },
     "authors": [
         {
